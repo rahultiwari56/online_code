@@ -1,1 +1,1 @@
-# this file is for testing purpose
+# this repository is for testing purpose
